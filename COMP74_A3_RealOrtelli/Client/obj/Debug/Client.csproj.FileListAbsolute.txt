@@ -1,0 +1,36 @@
+C:\Users\Ray\Desktop\COMP74_A3_RealOrtelli\Client\bin\Debug\Client.exe.config
+C:\Users\Ray\Desktop\COMP74_A3_RealOrtelli\Client\bin\Debug\Client.exe
+C:\Users\Ray\Desktop\COMP74_A3_RealOrtelli\Client\bin\Debug\Client.pdb
+C:\Users\Ray\Desktop\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Desktop\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Ray\Desktop\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Ray\Desktop\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.exe
+C:\Users\Ray\Desktop\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.pdb
+C:\Users\Ray\Desktop\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.Form1.resources
+C:\Users\rortelli27\Desktop\API Assignment 3 April 16th\COMP74_A3_RealOrtelli\Client\bin\Debug\Client.exe.config
+C:\Users\rortelli27\Desktop\API Assignment 3 April 16th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.exe
+C:\Users\rortelli27\Desktop\API Assignment 3 April 16th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.pdb
+C:\Users\rortelli27\Desktop\API Assignment 3 April 16th\COMP74_A3_RealOrtelli\Client\bin\Debug\Client.exe
+C:\Users\rortelli27\Desktop\API Assignment 3 April 16th\COMP74_A3_RealOrtelli\Client\bin\Debug\Client.pdb
+C:\Users\rortelli27\Desktop\API Assignment 3 April 16th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\rortelli27\Desktop\API Assignment 3 April 16th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.Form1.resources
+C:\Users\rortelli27\Desktop\API Assignment 3 April 16th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\rortelli27\Desktop\API Assignment 3 April 16th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\rortelli27\Desktop\API Assignment 3 April 19th\COMP74_A3_RealOrtelli\Client\bin\Debug\Client.exe.config
+C:\Users\rortelli27\Desktop\API Assignment 3 April 19th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.exe
+C:\Users\rortelli27\Desktop\API Assignment 3 April 19th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.pdb
+C:\Users\Ray\Desktop\API Assignment 3 April 19th\COMP74_A3_RealOrtelli\Client\bin\Debug\Client.exe.config
+C:\Users\Ray\Desktop\API Assignment 3 April 19th\COMP74_A3_RealOrtelli\Client\bin\Debug\Client.exe
+C:\Users\Ray\Desktop\API Assignment 3 April 19th\COMP74_A3_RealOrtelli\Client\bin\Debug\Client.pdb
+C:\Users\Ray\Desktop\API Assignment 3 April 19th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Desktop\API Assignment 3 April 19th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.Form1.resources
+C:\Users\Ray\Desktop\API Assignment 3 April 19th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Ray\Desktop\API Assignment 3 April 19th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Ray\Desktop\API Assignment 3 April 19th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.exe
+C:\Users\Ray\Desktop\API Assignment 3 April 19th\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.pdb
+C:\Users\rortelli27\Desktop\API Assignment 3 April 19th FINAL\COMP74_A3_RealOrtelli\Client\bin\Debug\Client.exe.config
+C:\Users\rortelli27\Desktop\API Assignment 3 April 19th FINAL\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.exe
+C:\Users\rortelli27\Desktop\API Assignment 3 April 19th FINAL\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.pdb
+C:\Users\rortelli27\Desktop\COMP74A3RealOrtelli\COMP74_A3_RealOrtelli\Client\bin\Debug\Client.exe.config
+C:\Users\rortelli27\Desktop\COMP74A3RealOrtelli\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.exe
+C:\Users\rortelli27\Desktop\COMP74A3RealOrtelli\COMP74_A3_RealOrtelli\Client\obj\Debug\Client.pdb

@@ -1,0 +1,16 @@
+c:\users\ray\documents\visual studio 2013\Projects\API_CSharp_Client\API_CSharp_Client\bin\Debug\API_CSharp_Client.exe.config
+c:\users\ray\documents\visual studio 2013\Projects\API_CSharp_Client\API_CSharp_Client\bin\Debug\API_CSharp_Client.exe
+c:\users\ray\documents\visual studio 2013\Projects\API_CSharp_Client\API_CSharp_Client\bin\Debug\API_CSharp_Client.pdb
+c:\users\ray\documents\visual studio 2013\Projects\API_CSharp_Client\API_CSharp_Client\bin\Debug\RestSharp.dll
+c:\users\ray\documents\visual studio 2013\Projects\API_CSharp_Client\API_CSharp_Client\bin\Debug\RestSharp.xml
+c:\users\ray\documents\visual studio 2013\Projects\API_CSharp_Client\API_CSharp_Client\obj\Debug\API_CSharp_Client.csprojResolveAssemblyReference.cache
+c:\users\ray\documents\visual studio 2013\Projects\API_CSharp_Client\API_CSharp_Client\obj\Debug\API_CSharp_Client.exe
+c:\users\ray\documents\visual studio 2013\Projects\API_CSharp_Client\API_CSharp_Client\obj\Debug\API_CSharp_Client.pdb
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\API_CSharp_Client\API_CSharp_Client\bin\Debug\API_CSharp_Client.exe.config
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\API_CSharp_Client\API_CSharp_Client\bin\Debug\API_CSharp_Client.exe
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\API_CSharp_Client\API_CSharp_Client\bin\Debug\API_CSharp_Client.pdb
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\API_CSharp_Client\API_CSharp_Client\bin\Debug\RestSharp.dll
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\API_CSharp_Client\API_CSharp_Client\bin\Debug\RestSharp.xml
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\API_CSharp_Client\API_CSharp_Client\obj\Debug\API_CSharp_Client.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\API_CSharp_Client\API_CSharp_Client\obj\Debug\API_CSharp_Client.exe
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\API_CSharp_Client\API_CSharp_Client\obj\Debug\API_CSharp_Client.pdb

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="COMP74_A3_RealOrtelli.CurrencyService" CodeBehind="CurrencyService.svc.cs" %>
